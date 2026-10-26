@@ -2,7 +2,7 @@
 An interactive Power BI HR analytics dashboard exploring employee demographics, performance, salary, marital status, department distribution, and attrition trends. Features KPI cards, dynamic filters, age and gender comparisons, and workforce insights to support data-driven HR decisions.
 
 
-<img width="577" height="325" alt="Screenshot 2026-10-26 230428" src="https://github.com/user-attachments/assets/8eeb77ff-1699-4c4d-8442-1c7137ed7b6a" />
+
 
 
 <img width="577" height="325" alt="Screenshot 2026-10-26 230428" src="https://github.com/user-attachments/assets/0948e69e-aaf8-496f-b0c0-58aa4f01b1c3" />
